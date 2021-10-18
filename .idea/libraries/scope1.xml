@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="scope1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Project/src/scope.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
